@@ -25,3 +25,8 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## App-Mapbox
+
+Esta app fue creada en el curso de Fernando Herrera en el curso de Udemy 'Aplicaciones en tiempo real con sockets y rest'.
+Utiliza como backend el socket-server (https://github.com/IgnacioEncina/socket-server).
